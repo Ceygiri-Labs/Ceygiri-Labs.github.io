@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 Sri Lanka based startup
+
 We provide software solutions for your problems
+
 Our expertise:
+
 * Web Development
 * Software Solutions
 * Computer vision and machine learning
