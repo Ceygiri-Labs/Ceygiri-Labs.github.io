@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: "About Us"
+title: "Sri Lankan Startup"
 excerpt: "About Us"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Sri Lanka based startup
-
-We provide software solutions for your problems
 
 Our expertise:
 
